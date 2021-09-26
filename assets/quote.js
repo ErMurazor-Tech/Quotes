@@ -9,6 +9,11 @@ var arrayOfQuotes =
     {
         "author":"Epictetus",
         "quote":"it's not what happens to you, but how you react to it that matters"
+    },
+
+    {
+        "author":"Atticus Finch",
+        "quote":"You never really understand a person until you consider things from their poit of view...Until you climb into their skin and walk around it"
     }
 
 ]
