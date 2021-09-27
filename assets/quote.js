@@ -14,6 +14,31 @@ var arrayOfQuotes =
     {
         "author":"Atticus Finch",
         "quote":"You never really understand a person until you consider things from their poit of view...Until you climb into their skin and walk around it"
+    },
+
+    {
+        "author":"Batman",
+        "quote":"Those who fly solo have the strongest wings."
+    },
+
+    {
+        "author":"Sun Tzu",
+        "quote":"The supreme art of war is to subdue the enemy without fighting"
+    },
+
+    {
+        "author":"Miyamoto Musashi",
+        "quote":"It may seen difficult at first, but everything is difficult at first"
+    },
+
+    {
+        "author":"Miyamoto Musashi",
+        "quote":"Do nothing which is of no use"
+    },
+
+    {
+        "author":"Miyamoto Musashi",
+        "quote":"Control Your anger. If You have anger towards others, They control You."
     }
 
 ]
